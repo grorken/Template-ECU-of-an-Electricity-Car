@@ -57,6 +57,9 @@ There were certain delays as there were too many tasks to be loaded with a singl
 
 
 
+
+
+
 TR
 
 Herkese merhaba arkadaşlar. 2023 Senesinde yapmış olduğum ECU taslak çalışmalarını gelecekte yarışacak gerek üniversite gerek de lise öğrencileri için taslak olması ve fikir almaları için burada paylaşmak istiyorum. Çünkü Bilginin paylaştıkça çoğalacağını biliyorum.
