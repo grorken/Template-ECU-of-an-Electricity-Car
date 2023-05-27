@@ -40,7 +40,7 @@ In general (without pieces) Ingredients:
 
 - Nextion Display (P043)
 
--Reed Relay
+- Reed Relay
 
 Arduino MEGA 2560 LoRa, Nextion, Temperature and Voltage reading, Fan, Buzzer, Contactor tasks;
 
@@ -94,6 +94,8 @@ Genel olarak(adet olmadan) Malzemeler:
 
 - Nextion Ekran (P043)
 
+- Reed Röle
+
 
 Arduino MEGA 2560 LoRa, Nextion, Sıcaklık ve Voltaj okuma, Fan, Buzzer, Kontaktör görevlerinde;
 
@@ -102,5 +104,7 @@ Arduino Uno R3 ise CanBus Sistemi için kullanılmıştır. CanBUS için MCP2515
 Voltaj okuma Opamplarla filtrelenip yapılmaktadır. Bataryamız 17 Seriydi. Arduinoya 17 tane bağlantı yapmak yerine MUX 'a bağlayıp tek bağlantı ile işi çözdük.
 
 Sıcaklık Sensörü de aynı şekilde birden fazla pin kullanmaktansa tek pine indirilmiştir. Fakat bu sefer OneWire.h kütüphanesi kullanılarak yapılmıştır.
+
+Hızı mıknatıs ve "reed" röle kullanarak ölçtük. Reed rölesi mıknatısı gördüğünde arduino'ya giriş HIGH oluyor, zamanlayıcı/timer ile turlar arası geçen zaman hesaplanıp yaklaşık olarak hız ölçülüyor.
 
 Tek işlemci ile çok fazla görev yüklenmesi olduğundan belli gecikmeler meydana gelmişti. Bu da haberleşme Sistemi LORA'nın verileri yakalayamaması ile sonuçlandı. Farklı yerlere delay(lar) eklememe rağmen çözememiştim.
