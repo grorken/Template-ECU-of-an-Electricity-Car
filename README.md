@@ -42,6 +42,8 @@ In general (without pieces) Ingredients:
 
 - Reed Relay
 
+- ACS758
+
 Arduino MEGA 2560 LoRa, Nextion, Temperature and Voltage reading, Fan, Buzzer, Contactor tasks;
 
 Arduino Uno R3 is used for CanBus System. MCP2515 is used for CanBUS. Only relay control is performed in CanBUS.
@@ -100,6 +102,7 @@ Genel olarak(adet olmadan) Malzemeler:
 
 - Reed Röle
 
+- ACS758
 
 Arduino MEGA 2560 LoRa, Nextion, Sıcaklık ve Voltaj okuma, Fan, Buzzer, Kontaktör görevlerinde;
 
