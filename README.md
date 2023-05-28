@@ -60,7 +60,8 @@ There were certain delays as there were too many tasks to be loaded with a singl
 
 
 
-![Uploading schematic.png…]()
+![schematic](https://github.com/sungurTigin/Template-ECU-of-an-Electricity-Car/assets/108736525/3889fc0a-bcc4-4e7a-9507-a4ef4efbde70)
+
 
 
 
