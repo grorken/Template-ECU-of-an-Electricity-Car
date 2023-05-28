@@ -60,6 +60,7 @@ There were certain delays as there were too many tasks to be loaded with a singl
 
 
 
+![Uploading schematic.png…]()
 
 
 
@@ -115,3 +116,5 @@ Sıcaklık Sensörü de aynı şekilde birden fazla pin kullanmaktansa tek pine 
 Hızı mıknatıs ve "reed" röle kullanarak ölçtük. Reed rölesi mıknatısı gördüğünde arduino'ya giriş HIGH oluyor, zamanlayıcı/timer ile turlar arası geçen zaman hesaplanıp yaklaşık olarak hız ölçülüyor.
 
 Tek işlemci ile çok fazla görev yüklenmesi olduğundan belli gecikmeler meydana gelmişti. Bu da haberleşme Sistemi LORA'nın verileri yakalayamaması ile sonuçlandı. Farklı yerlere delay(lar) eklememe rağmen çözememiştim.
+
+
