@@ -59,8 +59,7 @@ There were certain delays as there were too many tasks to be loaded with a singl
 
 
 
-
-![schematic](https://github.com/sungurTigin/Template-ECU-of-an-Electricity-Car/assets/108736525/3889fc0a-bcc4-4e7a-9507-a4ef4efbde70)
+![enschematic](https://github.com/sungurTigin/Template-ECU-of-an-Electricity-Car/assets/108736525/c7a058c3-4b97-4ebc-8324-ce61448f0436)
 
 
 
@@ -119,3 +118,4 @@ Hızı mıknatıs ve "reed" röle kullanarak ölçtük. Reed rölesi mıknatıs�
 Tek işlemci ile çok fazla görev yüklenmesi olduğundan belli gecikmeler meydana gelmişti. Bu da haberleşme Sistemi LORA'nın verileri yakalayamaması ile sonuçlandı. Farklı yerlere delay(lar) eklememe rağmen çözememiştim.
 
 
+![trschematic](https://github.com/sungurTigin/Template-ECU-of-an-Electricity-Car/assets/108736525/7247728e-dad6-472d-9818-bf1fd476e3ee)
